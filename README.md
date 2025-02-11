@@ -9,6 +9,6 @@
 4. Por fim, o servo se movimentará suavemente entre 0° e 180°, em loop. 
 
 
-Video demonstrando o funcionamento:
+- Video demonstrando o funcionamento:
 
-https://youtu.be/nYpOLk_SbaY
+- https://youtu.be/nYpOLk_SbaY
