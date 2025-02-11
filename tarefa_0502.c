@@ -2,8 +2,8 @@
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
 
-#define PINO 11
-//#define PINO 22  // GPIO utilizada para o controle do servo
+//#define PINO 11 // GPIO para o led
+#define PINO 22  // GPIO utilizada para o controle do servo
 #define PWM_FREQ 50   // Frequência do PWM em Hz (50Hz = período de 20ms)
 
 // Função para configurar o PWM na GPIO especificada (pin 22)
